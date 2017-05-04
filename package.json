@@ -1,0 +1,25 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "Url shortener for FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkweld/Url_Shortener_FreeCodeCamp.git"
+  },
+  "keywords": [
+    "FreeCodeCamp",
+    "URL",
+    "project",
+    "heroku"
+  ],
+  "author": "Darkweld",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darkweld/Url_Shortener_FreeCodeCamp/issues"
+  },
+  "homepage": "https://github.com/Darkweld/Url_Shortener_FreeCodeCamp#readme"
+}
