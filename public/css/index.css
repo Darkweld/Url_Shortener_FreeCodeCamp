@@ -3,8 +3,9 @@ body {
     margin-top: 10%;
 }
 p {
-    font-size: 24px;
+    font-size: 18px;
     color: 	#663399;
+    margin: 0 10% 0 10%;
 }
 .container-fluid {
     background-color: #5F9EA0;
@@ -16,8 +17,10 @@ p {
 }
 .description {
     color: #FF4500;
-    margin: 0 10% 20px 10%;
 }
 .exampletitle {
     color:	#000080;
+}
+.changethis {
+    color: red;
 }
