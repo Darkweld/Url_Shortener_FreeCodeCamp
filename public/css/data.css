@@ -1,0 +1,25 @@
+body {
+    background-color: #2f4f4f;
+    margin-top: 10%;
+}
+p {
+    font-size: 24px;
+}
+.container-fluid {
+    background-color: #5F9EA0;
+    border: 2px solid pink;
+}
+.title {
+    color: #000080;
+    font-size: 40px;
+}
+.urltitle {
+    color: #0e5850;
+    font-size: 30px;
+}
+.shorturl {
+    color: #00b300;
+}
+.mainurl {
+    color:  #FF4500;
+}

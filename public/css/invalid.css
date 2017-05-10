@@ -1,0 +1,17 @@
+body {
+    background-color: #330000;
+    margin-top: 10%;
+}
+.container-fluid {
+    background-color: #ff3333;
+    border: 2px solid pink;
+    padding: 20px;
+}
+.error {
+    color: #ff3333;
+    font-size: 40px;
+}
+.errortext {
+    color: red;
+    font-size: 24px;
+}
